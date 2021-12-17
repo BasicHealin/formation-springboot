@@ -1,0 +1,10 @@
+com/maltem/recap/dto/BookDTO.class
+com/maltem/recap/exception/FieldError.class
+com/maltem/recap/exception/BookNotFoundException.class
+com/maltem/recap/service/BookService.class
+type/RestError.class
+com/maltem/recap/exception/ApiError.class
+com/maltem/recap/MainApp.class
+com/maltem/recap/exception/BookExceptionHandler.class
+com/maltem/recap/domaine/Book.class
+com/maltem/recap/controller/BookController.class

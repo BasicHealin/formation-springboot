@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: maltem-jpa-tuto
+  jpa:
+    hibernate:
+      ddl-auto: update
+      #if proud set ddl-auto to :none
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/booksdb"
+    username: postgres
+    password: postgres

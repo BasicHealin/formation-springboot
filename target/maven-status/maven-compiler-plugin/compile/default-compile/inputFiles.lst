@@ -1,0 +1,10 @@
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/controller/BookController.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/exception/FieldError.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/service/BookService.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/exception/ApiError.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/dto/BookDTO.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/MainApp.java
+/home/buddha/IdeaProjects/formation/src/main/java/type/RestError.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/domaine/Book.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/exception/BookExceptionHandler.java
+/home/buddha/IdeaProjects/formation/src/main/java/com/maltem/recap/exception/BookNotFoundException.java
